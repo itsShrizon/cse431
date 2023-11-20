@@ -8,7 +8,7 @@ Paper title:
 Bangla Grammatical Error Detection Using T5 Transformer Model
 
 Link to the paper:
-(https://arxiv.org/pdf/2303.10612.pdf)
+https://arxiv.org/pdf/2303.10612.pdf
 
 Group Number:
 25
