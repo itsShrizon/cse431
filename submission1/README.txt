@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-[(https://docs.google.com/presentation/d/1QKQ-KTkpyZTQ3LikZGNZk5vWl5Q1pwnkwuVqqMfhsOk/edit?usp=sharing)]
+([https://docs.google.com/presentation/d/1QKQ-KTkpyZTQ3LikZGNZk5vWl5Q1pwnkwuVqqMfhsOk/edit?usp=sharing])
 
 Paper title:
 Bangla Grammatical Error Detection Using T5 Transformer Model
